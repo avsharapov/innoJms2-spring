@@ -10,7 +10,7 @@
   <packaging>war</packaging>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.2.13</logback.version>
     <javax.servlet.version>4.0.1</javax.servlet.version>
     <spring.version>5.3.2</spring.version>
     <wildfly.version>21.0.2.Final</wildfly.version>
